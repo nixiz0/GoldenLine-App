@@ -1,0 +1,1001 @@
+id,nbr_children,career,shopping_price
+1,1,Data Coordiator,378
+2,5,Sales Associate,553
+3,2,Civil Engineer,290
+4,2,Food Chemist,183
+5,1,VP Product Management,322
+6,1,Automation Specialist IV,332
+7,1,Librarian,383
+8,5,Health Coach IV,501
+9,3,Budget/Accounting Analyst II,162
+10,5,Database Administrator III,355
+11,4,Research Assistant III,297
+12,4,Developer III,335
+13,5,Assistant Professor,302
+14,2,Human Resources Manager,232
+15,5,Programmer Analyst III,497
+16,3,Associate Professor,525
+17,1,Environmental Specialist,369
+18,2,Mechanical Systems Engineer,417
+19,4,Accounting Assistant II,281
+20,0,Analog Circuit Design manager,501
+21,1,Environmental Tech,425
+22,5,VP Accounting,254
+23,3,VP Accounting,314
+24,3,Marketing Assistant,130
+25,2,General Manager,336
+26,5,Electrical Engineer,581
+27,2,Teacher,138
+28,5,Media Manager II,377
+29,0,Internal Auditor,389
+30,1,Programmer IV,462
+31,0,Assistant Manager,285
+32,1,Payment Adjustment Coordinator,288
+33,5,Environmental Specialist,487
+34,2,Compensation Analyst,535
+35,3,Programmer Analyst I,480
+36,4,Systems Administrator IV,302
+37,1,Staff Accountant IV,141
+38,0,Sales Representative,493
+39,0,Registered Nurse,453
+40,5,Structural Engineer,351
+41,4,Biostatistician IV,396
+42,5,Budget/Accounting Analyst IV,424
+43,0,Compensation Analyst,412
+44,2,Business Systems Development Analyst,359
+45,4,Paralegal,360
+46,3,Executive Secretary,416
+47,3,Technical Writer,431
+48,0,Editor,353
+49,2,Electrical Engineer,292
+50,1,Paralegal,297
+51,0,Senior Financial Analyst,334
+52,5,Information Systems Manager,449
+53,1,Payment Adjustment Coordinator,488
+54,1,GIS Technical Architect,226
+55,1,Electrical Engineer,485
+56,3,Software Engineer II,381
+57,0,Senior Editor,366
+58,4,Junior Executive,254
+59,5,Tax Accountant,366
+60,1,Staff Scientist,394
+61,2,Statistician III,191
+62,1,Assistant Manager,229
+63,3,Database Administrator I,267
+64,5,Engineer III,356
+65,3,Account Executive,474
+66,0,Web Designer II,278
+67,1,Software Consultant,395
+68,1,Occupational Therapist,368
+69,5,Research Nurse,534
+70,4,Compensation Analyst,379
+71,5,Financial Advisor,356
+72,4,Editor,328
+73,1,Web Designer II,428
+74,3,Health Coach II,502
+75,5,Environmental Specialist,414
+76,5,Web Designer III,470
+77,2,Business Systems Development Analyst,211
+78,4,Nurse Practicioner,305
+79,4,Developer IV,233
+80,4,Quality Engineer,366
+81,2,Nurse,392
+82,0,Staff Scientist,250
+83,5,Geological Engineer,361
+84,2,Account Executive,513
+85,0,Quality Engineer,391
+86,4,Automation Specialist III,448
+87,0,Computer Systems Analyst I,320
+88,1,Registered Nurse,125
+89,3,Assistant Manager,305
+90,3,Developer IV,224
+91,5,Technical Writer,215
+92,0,Programmer Analyst II,347
+93,5,Web Developer I,373
+94,2,Chief Design Engineer,422
+95,2,Chemical Engineer,340
+96,1,Information Systems Manager,317
+97,4,Web Developer III,294
+98,5,VP Sales,336
+99,4,Community Outreach Specialist,538
+100,5,Quality Control Specialist,375
+101,3,Programmer III,399
+102,1,Sales Representative,294
+103,2,Electrical Engineer,284
+104,0,Research Nurse,564
+105,0,Financial Analyst,203
+106,1,Environmental Specialist,301
+107,0,Recruiting Manager,444
+108,4,Account Representative IV,247
+109,2,Internal Auditor,314
+110,1,Administrative Officer,410
+111,3,Staff Accountant IV,475
+112,3,Technical Writer,280
+113,0,Software Consultant,451
+114,1,Recruiter,264
+115,0,Web Designer II,537
+116,4,Financial Advisor,511
+117,0,Dental Hygienist,278
+118,4,Professor,294
+119,4,Senior Quality Engineer,304
+120,1,Quality Control Specialist,336
+121,2,Analyst Programmer,477
+122,4,Structural Analysis Engineer,407
+123,3,Nurse,398
+124,0,Legal Assistant,344
+125,1,Associate Professor,304
+126,2,Product Engineer,525
+127,4,VP Sales,330
+128,5,Web Designer IV,344
+129,4,Tax Accountant,200
+130,1,Engineer I,312
+131,2,Staff Scientist,212
+132,0,Financial Advisor,535
+133,5,Recruiting Manager,441
+134,5,Health Coach I,247
+135,2,Environmental Tech,447
+136,5,Assistant Media Planner,327
+137,1,Assistant Media Planner,353
+138,2,Staff Scientist,310
+139,0,Data Coordiator,483
+140,2,Accounting Assistant I,484
+141,4,Marketing Manager,343
+142,1,Senior Sales Associate,200
+143,1,Research Nurse,533
+144,0,Statistician III,420
+145,5,Staff Scientist,385
+146,4,Financial Analyst,467
+147,1,GIS Technical Architect,508
+148,3,Biostatistician II,299
+149,0,Assistant Media Planner,222
+150,1,Budget/Accounting Analyst II,477
+151,1,Clinical Specialist,317
+152,5,Senior Sales Associate,391
+153,3,VP Marketing,422
+154,3,Actuary,196
+155,1,Executive Secretary,454
+156,3,Nurse,465
+157,1,Biostatistician III,199
+158,5,Programmer Analyst III,423
+159,5,Social Worker,365
+160,2,Legal Assistant,411
+161,4,VP Product Management,285
+162,1,Account Coordinator,383
+163,4,Cost Accountant,339
+164,0,Clinical Specialist,268
+165,5,Executive Secretary,319
+166,3,Technical Writer,263
+167,2,Junior Executive,216
+168,3,Associate Professor,398
+169,0,Assistant Media Planner,191
+170,3,Developer III,316
+171,1,Account Executive,282
+172,2,Tax Accountant,281
+173,3,Actuary,321
+174,0,Database Administrator II,372
+175,4,Administrative Officer,350
+176,4,Technical Writer,115
+177,3,Graphic Designer,303
+178,0,Marketing Assistant,470
+179,2,Biostatistician I,333
+180,5,Librarian,400
+181,1,Payment Adjustment Coordinator,392
+182,5,Marketing Assistant,246
+183,5,Cost Accountant,412
+184,5,Software Engineer II,344
+185,1,Graphic Designer,466
+186,3,Graphic Designer,380
+187,0,Staff Scientist,390
+188,4,Help Desk Operator,194
+189,0,Dental Hygienist,349
+190,4,Occupational Therapist,268
+191,0,VP Quality Control,187
+192,4,Assistant Manager,185
+193,1,Registered Nurse,399
+194,4,Marketing Assistant,371
+195,0,Health Coach IV,287
+196,2,Financial Analyst,476
+197,2,Community Outreach Specialist,169
+198,0,Office Assistant IV,277
+199,0,Software Engineer III,364
+200,1,Senior Developer,382
+201,4,Software Consultant,233
+202,5,Assistant Professor,406
+203,4,Nurse Practicioner,229
+204,0,Automation Specialist III,316
+205,2,Nuclear Power Engineer,399
+206,4,Software Test Engineer III,480
+207,0,Editor,193
+208,1,Chemical Engineer,450
+209,3,Operator,396
+210,0,Clinical Specialist,321
+211,2,Environmental Tech,498
+212,1,Analyst Programmer,389
+213,4,Assistant Media Planner,520
+214,5,Design Engineer,452
+215,4,Software Engineer I,445
+216,4,Assistant Media Planner,225
+217,2,Graphic Designer,316
+218,3,Analog Circuit Design manager,361
+219,4,Physical Therapy Assistant,280
+220,0,Administrative Officer,282
+221,2,Senior Cost Accountant,188
+222,4,Editor,433
+223,4,Software Test Engineer III,397
+224,5,VP Accounting,331
+225,1,Human Resources Assistant IV,325
+226,3,Geologist IV,282
+227,1,Geological Engineer,404
+228,2,Administrative Officer,254
+229,3,Information Systems Manager,263
+230,5,VP Quality Control,573
+231,2,Administrative Assistant III,501
+232,1,Product Engineer,573
+233,4,Structural Engineer,379
+234,2,Environmental Specialist,329
+235,3,Sales Associate,465
+236,5,Staff Scientist,370
+237,4,Help Desk Operator,143
+238,3,Mechanical Systems Engineer,331
+239,5,Structural Engineer,460
+240,2,Social Worker,352
+241,5,Design Engineer,342
+242,3,Accountant III,235
+243,4,Statistician I,225
+244,3,Software Engineer IV,310
+245,1,Automation Specialist II,275
+246,3,Speech Pathologist,430
+247,3,Nurse,508
+248,4,Marketing Manager,417
+249,2,Director of Sales,368
+250,5,Design Engineer,389
+251,3,Pharmacist,379
+252,3,Product Engineer,386
+253,5,Operator,305
+254,5,Recruiter,315
+255,1,Design Engineer,378
+256,4,Technical Writer,312
+257,3,Software Consultant,406
+258,5,VP Product Management,323
+259,2,Assistant Media Planner,387
+260,4,Office Assistant IV,392
+261,1,Professor,454
+262,2,Associate Professor,515
+263,2,Biostatistician III,405
+264,3,Environmental Specialist,356
+265,3,Product Engineer,467
+266,1,Structural Analysis Engineer,310
+267,3,Teacher,353
+268,5,Web Developer I,369
+269,2,Geologist II,403
+270,4,Professor,394
+271,1,Software Engineer I,277
+272,2,Engineer II,402
+273,5,Programmer IV,365
+274,0,Quality Control Specialist,312
+275,0,Programmer III,382
+276,5,Research Associate,383
+277,1,Marketing Manager,409
+278,2,Technical Writer,516
+279,0,Assistant Professor,364
+280,0,Information Systems Manager,394
+281,2,Administrative Officer,231
+282,4,VP Product Management,214
+283,0,Structural Engineer,383
+284,5,Dental Hygienist,309
+285,0,Operator,400
+286,5,Nurse Practicioner,265
+287,5,Media Manager II,402
+288,2,Automation Specialist II,520
+289,2,Pharmacist,346
+290,4,Software Test Engineer IV,311
+291,2,Financial Analyst,233
+292,0,Internal Auditor,509
+293,2,Quality Control Specialist,358
+294,2,Community Outreach Specialist,300
+295,0,Associate Professor,422
+296,2,Registered Nurse,415
+297,0,Research Assistant I,326
+298,1,Actuary,523
+299,4,Food Chemist,176
+300,0,Administrative Officer,184
+301,0,Junior Executive,246
+302,1,Marketing Assistant,478
+303,5,Assistant Professor,411
+304,4,Clinical Specialist,482
+305,2,Social Worker,509
+306,3,Assistant Media Planner,168
+307,0,Web Designer II,354
+308,5,Account Representative II,312
+309,5,Account Executive,481
+310,5,Chemical Engineer,287
+311,5,Senior Cost Accountant,291
+312,5,VP Marketing,106
+313,2,Associate Professor,415
+314,0,Software Engineer II,248
+315,2,Desktop Support Technician,297
+316,0,Structural Analysis Engineer,343
+317,1,Nurse,422
+318,5,Geologist IV,310
+319,3,VP Sales,558
+320,2,Social Worker,382
+321,1,Cost Accountant,452
+322,2,Nuclear Power Engineer,298
+323,5,Mechanical Systems Engineer,306
+324,1,Database Administrator II,187
+325,1,Research Nurse,338
+326,3,Administrative Assistant IV,228
+327,4,Account Representative IV,245
+328,4,Computer Systems Analyst IV,359
+329,0,Director of Sales,199
+330,0,Analyst Programmer,304
+331,4,Social Worker,356
+332,0,Human Resources Assistant IV,340
+333,0,Budget/Accounting Analyst III,245
+334,3,Computer Systems Analyst III,352
+335,2,Executive Secretary,223
+336,3,Statistician III,289
+337,0,Food Chemist,323
+338,0,Help Desk Technician,306
+339,1,Systems Administrator I,288
+340,0,Librarian,449
+341,4,Account Coordinator,436
+342,5,Senior Sales Associate,236
+343,1,Legal Assistant,460
+344,1,Professor,303
+345,2,Sales Associate,281
+346,1,Quality Engineer,468
+347,5,Recruiting Manager,247
+348,5,Engineer III,514
+349,1,Developer I,442
+350,1,Graphic Designer,133
+351,5,Legal Assistant,323
+352,4,Project Manager,439
+353,3,Desktop Support Technician,480
+354,2,Quality Control Specialist,357
+355,0,VP Accounting,431
+356,2,VP Quality Control,322
+357,5,Occupational Therapist,434
+358,4,Research Assistant I,249
+359,1,Chief Design Engineer,375
+360,3,Senior Financial Analyst,145
+361,0,Analog Circuit Design manager,157
+362,4,Registered Nurse,523
+363,4,Statistician IV,146
+364,3,Engineer IV,519
+365,5,VP Quality Control,492
+366,2,Help Desk Technician,384
+367,4,Graphic Designer,246
+368,3,Marketing Assistant,259
+369,5,VP Sales,303
+370,5,Quality Control Specialist,304
+371,5,Nurse Practicioner,289
+372,0,Computer Systems Analyst III,283
+373,0,Occupational Therapist,447
+374,1,Software Engineer III,331
+375,1,Account Representative II,416
+376,4,Legal Assistant,305
+377,2,Civil Engineer,235
+378,2,Senior Editor,519
+379,5,Quality Control Specialist,260
+380,5,Computer Systems Analyst II,143
+381,2,Business Systems Development Analyst,233
+382,0,Accounting Assistant I,241
+383,2,VP Quality Control,219
+384,2,Human Resources Assistant I,408
+385,5,Physical Therapy Assistant,381
+386,2,Assistant Professor,281
+387,2,Pharmacist,261
+388,3,Senior Editor,242
+389,3,Chemical Engineer,321
+390,4,Programmer Analyst I,378
+391,0,Senior Financial Analyst,174
+392,5,Physical Therapy Assistant,210
+393,2,Actuary,333
+394,5,Programmer Analyst III,371
+395,1,Structural Analysis Engineer,294
+396,0,Paralegal,376
+397,4,Product Engineer,428
+398,5,Payment Adjustment Coordinator,151
+399,4,Web Developer II,423
+400,0,Paralegal,196
+401,0,Administrative Assistant IV,288
+402,5,Staff Scientist,516
+403,4,Design Engineer,422
+404,3,Legal Assistant,251
+405,1,Electrical Engineer,448
+406,1,Environmental Tech,426
+407,4,Business Systems Development Analyst,300
+408,5,Geological Engineer,363
+409,5,Research Nurse,305
+410,2,Automation Specialist I,319
+411,0,Senior Cost Accountant,485
+412,0,Nuclear Power Engineer,489
+413,4,Teacher,494
+414,2,Data Coordiator,471
+415,3,VP Accounting,315
+416,4,VP Product Management,220
+417,3,Systems Administrator IV,289
+418,1,Human Resources Manager,316
+419,5,Quality Engineer,447
+420,0,Graphic Designer,370
+421,4,Desktop Support Technician,450
+422,0,Administrative Assistant I,436
+423,5,Developer IV,309
+424,3,Analog Circuit Design manager,368
+425,3,Project Manager,374
+426,5,Desktop Support Technician,389
+427,0,Registered Nurse,397
+428,2,Human Resources Manager,470
+429,2,Senior Financial Analyst,422
+430,3,Financial Analyst,316
+431,1,Computer Systems Analyst II,397
+432,4,Project Manager,439
+433,2,GIS Technical Architect,353
+434,2,Editor,405
+435,5,Research Assistant III,567
+436,2,Payment Adjustment Coordinator,382
+437,0,Associate Professor,338
+438,4,Mechanical Systems Engineer,440
+439,5,Assistant Professor,273
+440,0,Civil Engineer,504
+441,3,Speech Pathologist,309
+442,4,Staff Accountant I,397
+443,0,Nurse Practicioner,450
+444,4,Developer I,324
+445,4,Associate Professor,321
+446,4,Financial Analyst,280
+447,0,Chemical Engineer,315
+448,5,Environmental Tech,241
+449,3,Internal Auditor,410
+450,1,Database Administrator II,188
+451,5,Programmer Analyst I,296
+452,4,Marketing Manager,468
+453,0,Structural Analysis Engineer,535
+454,0,Media Manager III,359
+455,3,Administrative Officer,450
+456,5,Health Coach II,167
+457,3,Director of Sales,478
+458,3,Food Chemist,385
+459,2,Senior Cost Accountant,354
+460,3,Senior Financial Analyst,342
+461,4,Geological Engineer,367
+462,5,Technical Writer,421
+463,1,Help Desk Operator,392
+464,3,Systems Administrator II,328
+465,0,Assistant Media Planner,326
+466,2,Web Designer IV,389
+467,0,Financial Analyst,237
+468,1,Engineer I,314
+469,0,Accountant I,461
+470,2,Legal Assistant,258
+471,4,Assistant Professor,506
+472,1,Civil Engineer,538
+473,2,Programmer Analyst II,359
+474,4,Nuclear Power Engineer,416
+475,5,Health Coach II,437
+476,2,Budget/Accounting Analyst I,374
+477,1,Design Engineer,485
+478,1,Nurse Practicioner,212
+479,3,Administrative Officer,319
+480,2,Mechanical Systems Engineer,415
+481,1,VP Quality Control,421
+482,5,Recruiting Manager,399
+483,3,Mechanical Systems Engineer,262
+484,0,Clinical Specialist,209
+485,3,Actuary,446
+486,4,Quality Engineer,358
+487,3,Media Manager I,263
+488,3,Senior Editor,433
+489,3,Associate Professor,405
+490,5,Senior Cost Accountant,239
+491,5,Geologist II,291
+492,0,Actuary,285
+493,4,Structural Engineer,316
+494,4,Geologist III,401
+495,1,Help Desk Operator,468
+496,5,Product Engineer,271
+497,0,Recruiting Manager,347
+498,4,Operator,185
+499,2,Software Consultant,441
+500,0,Occupational Therapist,255
+501,0,Budget/Accounting Analyst II,356
+502,2,Tax Accountant,270
+503,0,Social Worker,392
+504,5,Research Assistant IV,329
+505,5,GIS Technical Architect,353
+506,2,VP Accounting,407
+507,3,Recruiter,512
+508,3,Senior Developer,339
+509,4,Research Assistant II,277
+510,0,Account Representative III,494
+511,5,Project Manager,262
+512,2,Pharmacist,275
+513,0,Web Developer IV,221
+514,2,Account Coordinator,271
+515,1,Editor,312
+516,4,Safety Technician I,330
+517,2,Graphic Designer,507
+518,1,Automation Specialist I,391
+519,2,Product Engineer,336
+520,2,Structural Engineer,271
+521,3,Paralegal,400
+522,2,Editor,335
+523,0,Help Desk Operator,367
+524,0,Automation Specialist III,314
+525,3,Help Desk Technician,264
+526,4,Nurse Practicioner,384
+527,4,Registered Nurse,394
+528,1,Director of Sales,448
+529,5,Senior Editor,296
+530,2,Programmer II,136
+531,1,Junior Executive,426
+532,0,Account Coordinator,479
+533,1,Junior Executive,308
+534,4,Product Engineer,333
+535,4,Dental Hygienist,170
+536,2,Pharmacist,387
+537,5,Dental Hygienist,281
+538,2,Financial Advisor,200
+539,1,Research Associate,393
+540,2,Programmer Analyst II,303
+541,5,Geological Engineer,210
+542,5,Executive Secretary,410
+543,3,Nurse,391
+544,3,Administrative Assistant III,151
+545,5,Administrative Assistant III,304
+546,2,Senior Editor,213
+547,1,Graphic Designer,422
+548,1,Automation Specialist III,382
+549,1,Quality Control Specialist,398
+550,5,Software Engineer II,377
+551,2,Business Systems Development Analyst,184
+552,1,Research Nurse,442
+553,3,Structural Engineer,461
+554,5,Teacher,425
+555,1,Senior Developer,278
+556,5,Media Manager I,167
+557,0,Information Systems Manager,559
+558,1,Environmental Tech,247
+559,4,Librarian,425
+560,0,Sales Associate,172
+561,5,Executive Secretary,325
+562,2,Research Assistant II,291
+563,2,Desktop Support Technician,248
+564,2,Speech Pathologist,416
+565,0,Staff Accountant II,287
+566,1,Computer Systems Analyst II,275
+567,0,Chief Design Engineer,292
+568,2,Clinical Specialist,320
+569,2,Marketing Manager,426
+570,1,Occupational Therapist,315
+571,4,Account Representative III,544
+572,5,Administrative Assistant IV,359
+573,2,Software Test Engineer III,277
+574,4,Data Coordiator,159
+575,3,Data Coordiator,346
+576,5,Quality Engineer,363
+577,4,Desktop Support Technician,434
+578,0,Nuclear Power Engineer,367
+579,2,Account Executive,151
+580,0,Geological Engineer,548
+581,4,Editor,269
+582,3,Cost Accountant,274
+583,3,Developer III,300
+584,3,Developer II,290
+585,2,Associate Professor,338
+586,4,Research Associate,529
+587,5,Associate Professor,173
+588,2,Technical Writer,345
+589,0,Human Resources Manager,343
+590,0,Analyst Programmer,265
+591,4,Account Representative IV,550
+592,5,Safety Technician I,243
+593,4,Clinical Specialist,329
+594,4,Assistant Manager,340
+595,0,Biostatistician IV,489
+596,1,Budget/Accounting Analyst IV,507
+597,1,Senior Developer,193
+598,2,Senior Editor,344
+599,1,Occupational Therapist,172
+600,2,Design Engineer,416
+601,3,Chief Design Engineer,466
+602,5,Librarian,442
+603,0,Senior Sales Associate,431
+604,1,Assistant Media Planner,330
+605,0,Junior Executive,251
+606,2,Accountant IV,163
+607,3,Office Assistant II,432
+608,1,Physical Therapy Assistant,301
+609,1,Human Resources Manager,319
+610,2,Legal Assistant,289
+611,2,Administrative Assistant III,535
+612,1,Engineer IV,317
+613,2,Teacher,289
+614,3,Software Test Engineer IV,157
+615,0,General Manager,503
+616,2,Programmer Analyst IV,372
+617,5,Mechanical Systems Engineer,406
+618,1,Paralegal,353
+619,1,Sales Representative,184
+620,5,Tax Accountant,216
+621,2,Assistant Media Planner,403
+622,1,Geological Engineer,427
+623,3,Nuclear Power Engineer,296
+624,4,Assistant Media Planner,454
+625,1,Software Engineer IV,123
+626,3,Administrative Officer,274
+627,0,Assistant Manager,303
+628,0,Operator,258
+629,0,Statistician I,462
+630,4,Environmental Specialist,368
+631,1,Design Engineer,237
+632,5,Programmer Analyst II,323
+633,3,Safety Technician III,469
+634,0,Staff Accountant I,426
+635,2,Associate Professor,168
+636,2,Dental Hygienist,297
+637,5,Sales Representative,471
+638,3,VP Sales,86
+639,3,Tax Accountant,372
+640,3,Web Developer II,233
+641,0,VP Product Management,449
+642,5,Sales Associate,392
+643,1,Research Assistant III,344
+644,1,Structural Analysis Engineer,378
+645,2,Account Coordinator,352
+646,5,Software Engineer IV,282
+647,1,Information Systems Manager,278
+648,0,Executive Secretary,217
+649,0,Programmer IV,280
+650,5,Sales Representative,244
+651,2,Human Resources Assistant I,240
+652,5,Budget/Accounting Analyst II,318
+653,1,Administrative Assistant II,388
+654,1,Geological Engineer,455
+655,2,Desktop Support Technician,531
+656,3,Business Systems Development Analyst,336
+657,4,Statistician II,384
+658,5,Senior Sales Associate,354
+659,2,Civil Engineer,533
+660,1,Actuary,320
+661,3,Community Outreach Specialist,345
+662,3,Mechanical Systems Engineer,249
+663,5,Quality Engineer,360
+664,1,VP Product Management,472
+665,3,Editor,267
+666,4,Staff Accountant III,361
+667,5,Librarian,178
+668,3,Help Desk Technician,295
+669,3,Actuary,261
+670,2,Help Desk Operator,276
+671,1,Civil Engineer,378
+672,5,Help Desk Operator,418
+673,2,Desktop Support Technician,240
+674,4,Nurse,513
+675,0,Business Systems Development Analyst,426
+676,1,Assistant Manager,379
+677,5,Nurse,408
+678,0,Librarian,403
+679,5,Cost Accountant,420
+680,5,Engineer IV,335
+681,1,Human Resources Assistant IV,340
+682,4,Assistant Manager,510
+683,0,Geologist IV,232
+684,1,Recruiting Manager,331
+685,0,Senior Financial Analyst,274
+686,1,Web Developer II,357
+687,1,Physical Therapy Assistant,194
+688,4,Systems Administrator I,484
+689,3,Speech Pathologist,262
+690,3,Account Representative I,436
+691,0,Account Executive,401
+692,4,GIS Technical Architect,437
+693,5,Health Coach I,351
+694,1,Staff Scientist,291
+695,2,Product Engineer,498
+696,2,Dental Hygienist,209
+697,2,Accounting Assistant I,251
+698,3,Office Assistant I,145
+699,4,Clinical Specialist,176
+700,1,Budget/Accounting Analyst I,309
+701,3,Professor,218
+702,3,Media Manager II,343
+703,2,Statistician IV,301
+704,5,VP Sales,257
+705,1,Programmer Analyst I,328
+706,4,Software Consultant,280
+707,5,VP Marketing,358
+708,0,Sales Associate,383
+709,2,Information Systems Manager,288
+710,4,VP Quality Control,270
+711,0,Information Systems Manager,245
+712,1,Assistant Manager,290
+713,4,Programmer II,283
+714,0,Engineer III,105
+715,3,Recruiter,254
+716,0,Actuary,435
+717,4,Structural Engineer,425
+718,4,Assistant Professor,436
+719,1,Research Assistant I,234
+720,4,Design Engineer,227
+721,1,Research Nurse,569
+722,5,Internal Auditor,199
+723,5,Speech Pathologist,371
+724,2,Quality Control Specialist,261
+725,0,Financial Advisor,304
+726,3,Assistant Professor,318
+727,1,Engineer II,481
+728,5,Marketing Manager,370
+729,4,Teacher,409
+730,0,Budget/Accounting Analyst III,503
+731,1,Product Engineer,230
+732,2,Account Representative II,405
+733,1,Software Consultant,215
+734,0,Assistant Professor,276
+735,3,Administrative Officer,175
+736,1,Nurse Practicioner,280
+737,4,Graphic Designer,311
+738,5,Staff Accountant IV,145
+739,0,Civil Engineer,470
+740,1,Biostatistician IV,160
+741,3,Administrative Assistant II,303
+742,3,Account Executive,383
+743,1,Senior Cost Accountant,414
+744,2,Sales Associate,562
+745,1,Assistant Manager,304
+746,0,Actuary,342
+747,3,Senior Financial Analyst,218
+748,1,Health Coach IV,386
+749,4,VP Quality Control,349
+750,4,Administrative Officer,530
+751,3,Registered Nurse,270
+752,1,Structural Analysis Engineer,398
+753,1,Speech Pathologist,244
+754,3,Recruiter,344
+755,0,Staff Accountant I,372
+756,4,Help Desk Operator,330
+757,0,Mechanical Systems Engineer,435
+758,5,Research Assistant II,366
+759,5,Information Systems Manager,442
+760,0,VP Quality Control,473
+761,1,Help Desk Operator,471
+762,3,Chemical Engineer,302
+763,2,Web Designer III,517
+764,2,Senior Financial Analyst,415
+765,4,Engineer I,276
+766,4,Desktop Support Technician,235
+767,4,Data Coordiator,323
+768,0,Community Outreach Specialist,468
+769,4,Geological Engineer,465
+770,2,Database Administrator II,309
+771,4,Recruiter,197
+772,5,Computer Systems Analyst II,325
+773,1,Database Administrator III,204
+774,1,Professor,281
+775,2,Account Executive,340
+776,1,Senior Quality Engineer,335
+777,0,Junior Executive,193
+778,2,Data Coordiator,355
+779,5,Staff Scientist,258
+780,3,Structural Analysis Engineer,374
+781,3,Sales Associate,514
+782,1,Senior Editor,356
+783,0,Nurse,426
+784,2,Assistant Media Planner,200
+785,1,Senior Developer,284
+786,2,Physical Therapy Assistant,382
+787,4,General Manager,380
+788,4,Senior Cost Accountant,327
+789,4,Programmer Analyst IV,475
+790,1,Registered Nurse,260
+791,1,Web Designer I,224
+792,3,Quality Engineer,281
+793,2,Analyst Programmer,312
+794,5,Software Engineer IV,255
+795,1,Technical Writer,215
+796,3,Database Administrator IV,479
+797,5,Senior Quality Engineer,384
+798,2,Financial Analyst,342
+799,0,Database Administrator I,111
+800,5,Environmental Specialist,407
+801,1,Teacher,434
+802,1,Safety Technician I,318
+803,0,Programmer Analyst I,260
+804,4,VP Accounting,319
+805,5,Programmer III,522
+806,3,Financial Advisor,222
+807,1,VP Marketing,326
+808,5,Quality Control Specialist,396
+809,3,Quality Engineer,326
+810,0,Internal Auditor,462
+811,0,Research Assistant III,407
+812,3,Assistant Manager,378
+813,0,Operator,403
+814,5,Registered Nurse,161
+815,0,Web Developer III,490
+816,3,Mechanical Systems Engineer,451
+817,3,Research Assistant III,367
+818,1,Staff Accountant I,444
+819,3,Media Manager IV,293
+820,4,Data Coordiator,466
+821,3,Software Engineer III,564
+822,2,Community Outreach Specialist,284
+823,0,Staff Scientist,337
+824,4,Research Associate,429
+825,5,Health Coach IV,355
+826,1,Clinical Specialist,239
+827,1,Environmental Tech,414
+828,5,Human Resources Manager,209
+829,1,Human Resources Manager,349
+830,5,Director of Sales,385
+831,4,Health Coach IV,154
+832,1,Junior Executive,391
+833,3,Human Resources Manager,271
+834,0,Editor,391
+835,4,VP Marketing,443
+836,5,VP Sales,364
+837,1,Biostatistician I,323
+838,1,Graphic Designer,401
+839,3,Analyst Programmer,291
+840,2,Nuclear Power Engineer,141
+841,3,Dental Hygienist,331
+842,1,Account Coordinator,227
+843,5,Quality Engineer,452
+844,5,Senior Developer,497
+845,1,GIS Technical Architect,506
+846,2,Operator,403
+847,4,Clinical Specialist,365
+848,4,Analyst Programmer,148
+849,0,Assistant Manager,149
+850,5,Human Resources Assistant I,254
+851,3,Help Desk Technician,406
+852,4,Software Consultant,386
+853,4,Compensation Analyst,590
+854,1,Design Engineer,550
+855,1,Assistant Professor,319
+856,5,Programmer I,229
+857,0,Associate Professor,353
+858,1,Senior Quality Engineer,432
+859,4,Sales Representative,311
+860,1,Chief Design Engineer,167
+861,4,Account Coordinator,247
+862,2,Web Designer IV,378
+863,0,Budget/Accounting Analyst I,174
+864,3,Help Desk Technician,330
+865,5,Recruiting Manager,288
+866,5,Payment Adjustment Coordinator,349
+867,5,Geological Engineer,535
+868,0,Biostatistician I,354
+869,3,Assistant Media Planner,191
+870,1,Accountant III,387
+871,4,Staff Scientist,393
+872,4,Programmer Analyst II,397
+873,3,Marketing Assistant,267
+874,5,Senior Sales Associate,404
+875,5,VP Product Management,375
+876,4,Safety Technician II,383
+877,1,Actuary,367
+878,5,Developer II,293
+879,0,Assistant Media Planner,358
+880,4,Recruiting Manager,298
+881,3,Data Coordiator,171
+882,3,Nurse Practicioner,225
+883,1,Chemical Engineer,464
+884,3,Desktop Support Technician,494
+885,4,Desktop Support Technician,386
+886,0,Environmental Tech,230
+887,2,Administrative Officer,262
+888,2,Analyst Programmer,314
+889,4,VP Quality Control,427
+890,3,Nurse Practicioner,351
+891,1,Staff Accountant IV,323
+892,3,Help Desk Operator,561
+893,4,Mechanical Systems Engineer,380
+894,1,Staff Scientist,464
+895,5,Senior Cost Accountant,470
+896,0,Staff Scientist,509
+897,0,Geologist I,366
+898,1,Assistant Media Planner,386
+899,2,Project Manager,238
+900,4,Financial Analyst,461
+901,2,Research Assistant IV,241
+902,3,Community Outreach Specialist,271
+903,4,Junior Executive,374
+904,4,Librarian,277
+905,4,Statistician I,467
+906,3,Legal Assistant,242
+907,5,Nuclear Power Engineer,382
+908,1,Project Manager,180
+909,0,Staff Accountant I,375
+910,4,Help Desk Technician,344
+911,4,Automation Specialist IV,376
+912,0,Software Consultant,458
+913,3,Structural Engineer,360
+914,3,Civil Engineer,358
+915,1,Assistant Manager,405
+916,3,VP Marketing,498
+917,2,Account Coordinator,316
+918,3,Project Manager,398
+919,0,Operator,333
+920,3,Editor,428
+921,5,Engineer IV,389
+922,4,Quality Control Specialist,155
+923,2,Senior Financial Analyst,411
+924,2,Accountant IV,531
+925,2,Software Engineer III,467
+926,4,Engineer III,546
+927,5,Assistant Media Planner,444
+928,2,Staff Accountant II,389
+929,0,Software Engineer II,406
+930,5,Marketing Manager,494
+931,4,Data Coordiator,332
+932,5,Nurse Practicioner,339
+933,1,Software Consultant,246
+934,1,Web Designer III,450
+935,3,Cost Accountant,443
+936,5,Tax Accountant,286
+937,0,Data Coordiator,234
+938,1,Account Representative II,364
+939,5,Help Desk Operator,368
+940,3,Food Chemist,499
+941,3,Senior Quality Engineer,473
+942,3,Senior Quality Engineer,491
+943,4,Compensation Analyst,500
+944,2,Mechanical Systems Engineer,316
+945,4,Financial Advisor,227
+946,1,Associate Professor,342
+947,3,Clinical Specialist,299
+948,2,Administrative Officer,221
+949,5,GIS Technical Architect,327
+950,5,Health Coach I,386
+951,5,Analyst Programmer,390
+952,3,GIS Technical Architect,391
+953,2,Developer IV,476
+954,1,Business Systems Development Analyst,474
+955,0,Accounting Assistant III,221
+956,4,Geologist I,414
+957,1,Physical Therapy Assistant,308
+958,0,Social Worker,313
+959,2,Automation Specialist IV,372
+960,1,Paralegal,350
+961,3,Teacher,253
+962,1,Software Engineer I,396
+963,0,Human Resources Manager,245
+964,1,Computer Systems Analyst III,382
+965,0,Office Assistant II,280
+966,1,Compensation Analyst,197
+967,5,Statistician II,354
+968,4,Nurse Practicioner,381
+969,2,Editor,482
+970,1,Analyst Programmer,390
+971,3,Accounting Assistant II,253
+972,2,Structural Engineer,153
+973,3,Project Manager,277
+974,4,Paralegal,385
+975,2,VP Quality Control,325
+976,4,Senior Financial Analyst,254
+977,4,Actuary,361
+978,1,Chief Design Engineer,504
+979,4,Senior Editor,175
+980,0,Research Associate,389
+981,5,Librarian,411
+982,4,Executive Secretary,476
+983,4,Librarian,151
+984,5,Senior Cost Accountant,209
+985,0,Help Desk Technician,438
+986,1,Mechanical Systems Engineer,409
+987,2,Senior Financial Analyst,298
+988,2,Database Administrator IV,268
+989,5,VP Product Management,405
+990,2,Social Worker,360
+991,4,Statistician IV,458
+992,2,Chemical Engineer,312
+993,0,Research Associate,405
+994,2,Structural Analysis Engineer,441
+995,0,General Manager,183
+996,5,Health Coach IV,202
+997,0,Geological Engineer,432
+998,1,Chemical Engineer,364
+999,5,Tax Accountant,284
+1000,4,Design Engineer,252

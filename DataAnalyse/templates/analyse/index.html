@@ -1,0 +1,62 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="{% static 'icon.png' %}" type="image/x-icon">
+    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}">
+    <title> GoldenLine App </title>
+</head>
+<body id="main" class="text-light bg-dark">
+
+    <nav id="main_nav" class="d-flex justify-content-center navbar navbar-light bg-dark shadow p-3">
+        <div>
+            <div class="text-center">
+                <div>
+                    <img src="{% static 'icon.png' %}" width="80" height="auto" alt="logo GoldenLine">
+                </div>
+            </div>
+            <div class="mt-3 shadow">
+                <button id="btn_mode" class="btn btn-light"></button>
+            </div>
+            <div class="text-center mt-3">
+                <a class="link-danger" href="{% url 'logout' %}">Déconnexion</a>
+            </div>
+        </div>
+    </nav>
+
+    <div>
+        <div class="d-flex justify-content-center mt-2 p-3 mb-2">
+            <h2> Bienvenue <span style="color:rgb(234, 152, 2);">{{user.username}}</span> </h2>
+        </div>
+        <div>
+            <p class="text-center"> Vous trouverez ci-dessous le lien vers l'application 
+                <span style="color:rgb(0, 153, 255);"><b>d'analyse de donnée</b></span> . 
+            </p>
+        </div>
+    </div>
+
+    <div class="d-flex justify-content-center">
+        <div class="card" style="width: 18rem;">
+            <img src="{% static 'illu_streamlit.png' %}" class="card-img-top" alt="illustration streamlit data analyse">
+            <div class="card-body">
+              <h5 class="card-title">Analyse Data</h5>
+              <p class="card-text">Cliquez pour avoir l'accès à l'application Streamlit pour analyser vos données.</p>
+              <a href="https://nixiz0-goldenline-streamlit-streamlit-a50t0i.streamlit.app/" target="_blank" class="btn btn-primary stretched-link">Analyser les données</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="mt-5 pt-4">
+        <h3 class="text-center" style="text-decoration:underline;"><i>Nos nouveautés du mois :</i></h3>
+        <div class="d-flex justify-content-center p-2">
+            <img src="{% static 'nouveautes.png' %}" class="img-fluid img-thumbnail rounded" alt="illustration vetement">
+        </div>
+    </div>
+
+    <script src="{% static 'js/dynamic_template.js' %}"></script>
+
+</body>
+</html>
