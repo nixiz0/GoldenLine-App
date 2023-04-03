@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-hcz%!4v(t-)xmlxv=lyuc1&k%oz$ppzarai@51c3zc9h%7-3n!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://goldenline.herokuapp.com/', '127.0.0.1', 'localhost', 'https://goldenline.herokuapp.com/login']
+ALLOWED_HOSTS = ['goldenline.herokuapp.com','https://goldenline.herokuapp.com/', '127.0.0.1', 'localhost', 'https://goldenline.herokuapp.com/login']
 
 
 # Application definition
