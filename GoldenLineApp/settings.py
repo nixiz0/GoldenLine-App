@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-hcz%!4v(t-)xmlxv=lyuc1&k%oz$ppzarai@51c3zc9h%7-3n!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
@@ -83,7 +83,7 @@ DATABASES = {
     },
 }
 
-"""
+
 
 DATABASES = {
     'default': {
@@ -95,7 +95,7 @@ DATABASES = {
         'PORT': 5432,
     },
 }
-
+"""
 
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
