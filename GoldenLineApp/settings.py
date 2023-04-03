@@ -135,6 +135,9 @@ STATIC_URL = 'static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'GoldenLineApp/static')
 ]
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
 LOGIN_REDIRECT_URL = 'analyse'
 LOGOUT_REDIRECT_URL = 'login'
 

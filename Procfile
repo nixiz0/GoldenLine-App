@@ -1,1 +1,1 @@
-web: gunicorn GoldenLineApp.wsgi --log-file -
+web: gunicorn GoldenLineApp.wsgi.application --log-file -
