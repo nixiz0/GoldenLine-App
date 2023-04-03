@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-hcz%!4v(t-)xmlxv=lyuc1&k%oz$ppzarai@51c3zc9h%7-3n!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://goldenline.herokuapp.com/', '127.0.0.1', 'localhost', 'https://goldenline.herokuapp.com/login']
 
 
 # Application definition
@@ -131,13 +131,13 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 
+# ajout des liens vers les fichiers statiques
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+STATIC_ROOT = os.path.join(BASE_DIR,'static')
 STATIC_URL = 'static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'GoldenLineApp/static')
 ]
-
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-
 LOGIN_REDIRECT_URL = 'analyse'
 LOGOUT_REDIRECT_URL = 'login'
 
