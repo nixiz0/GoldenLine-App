@@ -5,6 +5,6 @@ from django.shortcuts import render
 def analyseData(request):
     return render(request, 'analyse/analyse_index.html')
 
-@login_required
+
 def testing(request):
     return render(request, 'analyse/the_test.html')
