@@ -26,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-hcz%!4v(t-)xmlxv=lyuc1&k%oz$ppzarai@51c3zc9h%7-3n!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['https://goldenline.herokuapp.com/data-analyse','goldenline.herokuapp.com','https://goldenline.herokuapp.com/', '127.0.0.1', 'localhost', 'https://goldenline.herokuapp.com/login']
 
@@ -94,7 +94,7 @@ DATABASES = {
     },
 }
 
-"""
+
 
 DATABASES = {
     'default': {
@@ -106,7 +106,7 @@ DATABASES = {
         'PORT': 5432,
     },
 }
-
+"""
 
 
 # Password validation
