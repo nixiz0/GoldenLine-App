@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-hcz%!4v(t-)xmlxv=lyuc1&k%oz$ppzarai@51c3zc9h%7-3n!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['goldenline.herokuapp.com','https://goldenline.herokuapp.com/', '127.0.0.1', 'localhost', 'https://goldenline.herokuapp.com/login']
+ALLOWED_HOSTS = ['https://goldenline.herokuapp.com/data-analyse','goldenline.herokuapp.com','https://goldenline.herokuapp.com/', '127.0.0.1', 'localhost', 'https://goldenline.herokuapp.com/login']
 
 
 # Application definition
@@ -79,12 +79,12 @@ WSGI_APPLICATION = 'GoldenLineApp.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
-
+"""
 DATABASES = {
     'default': dj_database_url.config()
 }
 
-"""
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
