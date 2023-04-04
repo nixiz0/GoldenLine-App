@@ -1,6 +1,6 @@
-from django.contrib.auth.decorators import login_required
-from django.shortcuts import render
-
-@login_required
-def analyseData(request):
-    return render(request, 'analyse/analyse_index.html')
+#from django.contrib.auth.decorators import login_required
+#from django.shortcuts import render
+#
+#@login_required
+#def analyseData(request):
+#    return render(request, 'analyse/analyse_index.html')
