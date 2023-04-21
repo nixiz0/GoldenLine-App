@@ -13,5 +13,5 @@ class Client(models.Model):
     nbr_children = models.IntegerField()
     career = models.CharField(max_length=100)
     shopping_price = models.IntegerField()
-    collect_data = models.OneToOneField(CollectData, on_delete=models.CASCADE, null=True)
+    collect_data = models.ForeignKey(CollectData, on_delete=models.CASCADE, null=True)
     
